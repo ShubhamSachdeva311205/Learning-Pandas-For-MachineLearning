@@ -10,6 +10,8 @@
 
 <p>## Goals</p>
 
-<p>- Understand and apply data manipulation techniques with Pandas. - Gain proficiency in handling real-world datasets. - Document and share my learning process to help others on a similar path.</p>
+<p>- Understand and apply data manipulation techniques with Pandas. 
+<p>- Gain proficiency in handling real-world datasets. 
+<p>- Document and share my learning process to help others on a similar path.</p>
 
 <p>Feel free to explore the repository and follow along with my journey!</p>
